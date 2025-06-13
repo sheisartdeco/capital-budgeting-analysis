@@ -13,6 +13,9 @@ A Streamlit-powered Capital Budgeting Analysis tool that evaluates the financial
 - Payback Period
 - Weighted Average Cost of Capital (WACC)
 
+[03645b34-72f1-4f5a-8fa7-4fda28a52511.webm](https://github.com/user-attachments/assets/988704ce-545c-4e18-96b8-6bd232ed900c)
+
+
 ### 🚀 How to Run the Dashboard
 ```bash
 streamlit run dashboard/app.py
