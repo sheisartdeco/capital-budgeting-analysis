@@ -1,4 +1,3 @@
-# Capital Budgeting
 A Streamlit-powered Capital Budgeting Analysis tool that evaluates the financial viability of Futura Tech Inc.'s overseas expansion using NPV, IRR, and WACC methodologies.
 
 # Futura Tech Capital Budgeting Project
